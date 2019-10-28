@@ -1,2 +1,5 @@
 # CV
-Updating this as I go with my web dev journey
+MY FIRST WEBSITE, EVER!
+
+See it here: 
+https://reemhamz.github.io/CV/
